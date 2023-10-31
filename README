@@ -1,0 +1,7 @@
+echo "# Proyecto Alexandra Maria Lopez Jaramillo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/amaloja83/LopezJaramillo.git
+git push -u origin main
